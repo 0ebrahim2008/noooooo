@@ -1,0 +1,27 @@
+[
+  {
+    "id": "القوانين العامة",
+    "title": "القوانين العامة",
+    "description": "data/file1.txt"
+  },
+  {
+    "id": "قوانين الاجرام",
+    "title": "قوانين الاجرام",
+     "description": "data/file2.txt"
+  },
+  {
+    "id": "قوانين الديسكورد",
+    "title": "قوانين الديسكورد",
+    "description": "data/file3.txt"
+  },
+  {
+    "id": "آلية الباند و التحذيرات",
+    "title": "آلية الباند و التحذيرات",
+    "description": "data/file4.txt"
+  },
+    {
+      "id": "المناطق الأمنة",
+      "title": "المناطق الأمنة",
+      "description": "data/file5.txt"
+    }
+  ]
